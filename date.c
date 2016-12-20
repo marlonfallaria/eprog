@@ -52,7 +52,7 @@ int main(){
 		printf(" Tuesday");
 	}	
 	if(day == 4){
-		printf(" Wedday");
+		printf(" Wednesday");
 	}	
 	if(day == 5){
 		printf(" Thursday");
